@@ -1,11 +1,8 @@
-
 matplotlib
 streamlit
-os
 uvicorn
 requests
 fastapi
-multiprocessing
 langchain_core
 langchain_groq
 dotenv
